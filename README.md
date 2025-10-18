@@ -47,7 +47,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0030-substring-with-concatenation-of-all-words) |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,16 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0022-generate-parentheses) |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0029-divide-two-integers) |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
 |  |
 | ------- |
-| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Greedy
 |  |
 | ------- |
