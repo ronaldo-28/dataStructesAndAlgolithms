@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0048-rotate-image) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
