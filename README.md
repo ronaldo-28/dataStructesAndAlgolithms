@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0045-jump-game-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0045-jump-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0045-jump-game-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Trie
 |  |
