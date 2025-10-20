@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
