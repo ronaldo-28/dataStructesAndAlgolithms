@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0049-group-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0049-group-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0049-group-anagrams) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Backtracking
 |  |
