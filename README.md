@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
