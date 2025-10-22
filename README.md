@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 ## Bitmask
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Monotonic Stack
 |  |
