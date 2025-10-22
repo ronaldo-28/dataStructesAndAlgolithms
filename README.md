@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
