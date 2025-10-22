@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0066-plus-one) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
