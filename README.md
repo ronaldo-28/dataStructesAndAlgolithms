@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0071-simplify-path) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0071-simplify-path) |
 ## String Matching
 |  |
 | ------- |
