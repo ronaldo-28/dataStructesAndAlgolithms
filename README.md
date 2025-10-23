@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
 ## Bitmask
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
