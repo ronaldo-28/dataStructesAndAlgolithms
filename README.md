@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
