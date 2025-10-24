@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0070-climbing-stairs) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0073-set-matrix-zeroes) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Simulation
 |  |
 | ------- |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Counting
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
