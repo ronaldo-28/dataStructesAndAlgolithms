@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0089-gray-code) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0089-gray-code) |
 ## Bitmask
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0089-gray-code) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
