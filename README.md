@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0088-merge-sorted-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0088-merge-sorted-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
