@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0089-gray-code) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
