@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0093-restore-ip-addresses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0093-restore-ip-addresses) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
