@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0096-unique-binary-search-trees) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0096-unique-binary-search-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -295,8 +297,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
