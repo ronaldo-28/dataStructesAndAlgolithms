@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
@@ -289,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
