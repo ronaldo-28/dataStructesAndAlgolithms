@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Enumeration
 |  |
