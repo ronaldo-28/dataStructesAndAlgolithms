@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
@@ -366,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 ## Number Theory
 |  |
 | ------- |
