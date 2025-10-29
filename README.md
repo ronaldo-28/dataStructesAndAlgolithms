@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
