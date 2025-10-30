@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0141-linked-list-cycle) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
