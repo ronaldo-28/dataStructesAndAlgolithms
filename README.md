@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0174-dungeon-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0174-dungeon-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
 |  |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0174-dungeon-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
