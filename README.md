@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0179-largest-number) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0179-largest-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0179-largest-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Trie
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0179-largest-number) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
