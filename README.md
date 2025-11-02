@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0068-text-justification) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
 |  |
 | ------- |
