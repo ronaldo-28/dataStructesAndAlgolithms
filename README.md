@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Array
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
 |  |
@@ -558,4 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0023-merge-k-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
