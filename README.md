@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0190-reverse-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
 |  |
