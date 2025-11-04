@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Enumeration
 |  |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 ## Merge Sort
 |  |
 | ------- |
