@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0127-word-ladder) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
