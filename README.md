@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0202-happy-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0202-happy-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
