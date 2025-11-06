@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0210-course-schedule-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0210-course-schedule-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0210-course-schedule-ii) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0210-course-schedule-ii) |
 ## Design
 |  |
 | ------- |
