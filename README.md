@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0205-isomorphic-strings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0205-isomorphic-strings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
