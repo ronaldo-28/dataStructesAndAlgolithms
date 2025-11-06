@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -656,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0023-merge-k-sorted-lists) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -668,8 +674,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0133-clone-graph) |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0149-max-points-on-a-line) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
