@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
