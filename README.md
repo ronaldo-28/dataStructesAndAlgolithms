@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
