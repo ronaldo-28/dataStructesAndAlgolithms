@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 ## Two Pointers
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -783,4 +788,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
