@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## String Matching
 |  |
