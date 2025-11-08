@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0213-house-robber-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0201-bitwise-and-of-numbers-range) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
 |  |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0140-word-break-ii) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Number Theory
 |  |
 | ------- |
