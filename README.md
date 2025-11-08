@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0227-basic-calculator-ii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0227-basic-calculator-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0227-basic-calculator-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## String Matching
 |  |
