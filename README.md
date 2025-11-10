@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0242-valid-anagram) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0242-valid-anagram) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0242-valid-anagram) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
