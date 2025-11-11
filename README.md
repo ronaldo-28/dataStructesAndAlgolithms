@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0260-single-number-iii) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0260-single-number-iii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
