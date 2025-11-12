@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -817,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
