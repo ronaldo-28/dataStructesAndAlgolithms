@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0273-integer-to-english-words) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
+| [0273-integer-to-english-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0273-integer-to-english-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0273-integer-to-english-words) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
