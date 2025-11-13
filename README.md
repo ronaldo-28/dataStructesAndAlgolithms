@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0279-perfect-squares) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0279-perfect-squares) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
