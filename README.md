@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0289-game-of-life) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0289-game-of-life) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0289-game-of-life) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
