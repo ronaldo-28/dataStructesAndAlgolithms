@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
