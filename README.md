@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0301-remove-invalid-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0301-remove-invalid-parentheses) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Stack
 |  |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0301-remove-invalid-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
