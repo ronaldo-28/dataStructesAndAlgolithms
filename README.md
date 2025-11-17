@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
