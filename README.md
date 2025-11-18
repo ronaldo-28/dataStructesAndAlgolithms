@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0322-coin-change) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
