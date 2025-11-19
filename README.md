@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0299-bulls-and-cows) |
+| [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0335-self-crossing) |
+| [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
 ## Sorting
 |  |
 | ------- |
