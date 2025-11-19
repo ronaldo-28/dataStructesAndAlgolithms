@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0319-bulb-switcher) |
+| [0335-self-crossing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0335-self-crossing) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0335-self-crossing) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0335-self-crossing) |
 ## Ordered Set
 |  |
 | ------- |
