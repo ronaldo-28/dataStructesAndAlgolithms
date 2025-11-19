@@ -1,49 +1,38 @@
-struct TrieNode {
-    TrieNode *next[26] = {};
-    int index = -1;
-    vector<int> palindromeIndexes;
-};
-
 class Solution {
-    TrieNode root; // Suffix trie
-    void add(string &s, int i) {
-        auto node = &root;
-        for (int j = s.size() - 1; j >= 0; --j) {
-            if (isPalindrome(s, 0, j)) node->palindromeIndexes.push_back(i); // A[i]'s prefix forms a palindrome
-            int c = s[j] - 'a';
-            if (!node->next[c]) node->next[c] = new TrieNode();
-            node = node->next[c];
-        }
-        node->index = i;
-        node->palindromeIndexes.push_back(i); // A[i]'s prefix is empty string here, which is a palindrome.
-    }
-    
-    bool isPalindrome(string &s, int i, int j) {
-        while (i < j && s[i] == s[j]) ++i, --j;
-        return i >= j;
-    }
-    
 public:
-    vector<vector<int>> palindromePairs(vector<string>& A) {
-        int N = A.size();
-        for (int i = 0; i < N; ++i) add(A[i], i);
-        vector<vector<int>> ans;
-        for (int i = 0; i < N; ++i) {
-            auto s = A[i];
-            auto node = &root;
-            for (int j = 0; j < s.size() && node; ++j) {
-                if (node->index != -1 && node->index != i && isPalindrome(s, j, s.size() - 1)) ans.push_back({ i, node->index }); 
-                // A[i]'s prefix matches this word and A[i]'s suffix forms a palindrome
-                node = node->next[s[j] - 'a'];
+    vector<vector<int>> palindromePairs(const vector<string> &w) {
+        using ull = unsigned long long;
+        vector<vector<int>> r;
+        unordered_map<ull, int> m;
+        constexpr ull p = 31, l = 301;
+        ull fh[l]{0}, bh[l]{0}, pp[l]{1};
+        bool ss[l]{};
+        for (int i = 1; i < l; ++i) pp[i] = p * pp[i - 1];
+        for (int i = 0; i < w.size(); ++i) {
+            ull h = 0; for (int c : w[i]) h = p * h + c;
+            m.emplace(h, i);
+            ss[w[i].size()] = true;
+        }
+        for (int i = 0; i < w.size(); ++i) {
+            const auto &s = w[i];
+            const int n = s.size();
+            for (int j = 0; j < n; ++j) {
+                fh[j + 1] = p * fh[j] + s[j];
+                bh[j + 1] = p * bh[j] + s[n - 1 - j];
             }
-            if (!node) continue;
-            for (int j : node->palindromeIndexes) { 
-                // A[i] is exhausted in the matching above. 
-                // If a word whose prefix is palindrome after matching its suffix with A[i], 
-                // then this is also a valid pair
-                if (i != j) ans.push_back({ i, j });
+            for (int j = 0, k = n; k >= 0; ++j, --k) if (ss[j]) {
+                if (fh[n] - pp[k] * fh[j] == bh[k]) {
+                    auto a = m.find(bh[n] - pp[j] * bh[k]);
+                    if (a != end(m) && (k != 0 ? i != a->second : i < a->second))
+                        r.push_back({ i, a->second });
+                }
+                if (bh[n] - pp[k] * bh[j] == fh[k]) {
+                    auto a = m.find(bh[j]);
+                    if (a != end(m) && (k != 0 ? i != a->second : i < a->second))
+                        r.push_back({ a->second, i });
+                }
             }
         }
-        return ans;
+        return r;
     }
 };
