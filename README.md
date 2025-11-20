@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
