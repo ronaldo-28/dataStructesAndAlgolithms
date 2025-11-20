@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0342-power-of-four) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0342-power-of-four) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bitmask
