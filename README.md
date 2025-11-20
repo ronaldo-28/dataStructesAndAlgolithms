@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -847,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Tree
@@ -964,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
@@ -1032,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1057,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
