@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -878,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1027,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Database
 |  |
 | ------- |
@@ -1036,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Quickselect
 |  |
