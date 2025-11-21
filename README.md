@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
@@ -1043,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0341-flatten-nested-list-iterator) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1120,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Eulerian Circuit
 |  |
 | ------- |
