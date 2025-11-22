@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0367-valid-perfect-square) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0367-valid-perfect-square) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
