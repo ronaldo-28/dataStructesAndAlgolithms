@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0474-ones-and-zeroes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-set-intersection-size-at-least-two) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Prefix Sum
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3863-power-grid-maintenance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
