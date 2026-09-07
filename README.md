@@ -2267,6 +2267,7 @@
 | [2854-rolling-average-steps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2854-rolling-average-steps) |
 | [2893-calculate-orders-within-each-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2893-calculate-orders-within-each-interval) |
 | [2922-market-analysis-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2922-market-analysis-iii) |
+| [2978-symmetric-coordinates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2978-symmetric-coordinates) |
 ## Nearest Pair of Points
 |  |
 | ------- |
