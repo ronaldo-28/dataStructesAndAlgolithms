@@ -2232,6 +2232,7 @@
 | [2837-total-traveled-distance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2837-total-traveled-distance) |
 | [2853-highest-salaries-difference](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2853-highest-salaries-difference) |
 | [2854-rolling-average-steps](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2854-rolling-average-steps) |
+| [2893-calculate-orders-within-each-interval](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2893-calculate-orders-within-each-interval) |
 ## Nearest Pair of Points
 |  |
 | ------- |
