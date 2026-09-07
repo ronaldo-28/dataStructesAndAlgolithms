@@ -2277,6 +2277,7 @@
 | [2922-market-analysis-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2922-market-analysis-iii) |
 | [2978-symmetric-coordinates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2978-symmetric-coordinates) |
 | [2984-find-peak-calling-hours-for-each-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2984-find-peak-calling-hours-for-each-city) |
+| [2985-calculate-compressed-mean](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2985-calculate-compressed-mean) |
 ## Nearest Pair of Points
 |  |
 | ------- |
