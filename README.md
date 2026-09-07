@@ -320,6 +320,7 @@
 | [2941-maximum-gcd-sum-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2941-maximum-gcd-sum-of-a-subarray) |
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [2964-number-of-divisible-triplet-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2964-number-of-divisible-triplet-sums) |
+| [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -963,6 +964,7 @@
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
+| [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1386,6 +1388,7 @@
 | [2599-make-the-prefix-sum-non-negative](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2599-make-the-prefix-sum-non-negative) |
 | [2714-find-shortest-path-with-k-hops](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2714-find-shortest-path-with-k-hops) |
 | [2737-find-the-closest-marked-node](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2737-find-the-closest-marked-node) |
+| [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1818,12 +1821,14 @@
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2944-minimum-number-of-coins-for-fruits) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2945-find-maximum-non-decreasing-array-length) |
 | [2534-time-taken-to-cross-the-door](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2534-time-taken-to-cross-the-door) |
+| [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0683-k-empty-slots](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0683-k-empty-slots) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2944-minimum-number-of-coins-for-fruits) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2945-find-maximum-non-decreasing-array-length) |
+| [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
 ## Minimax
 |  |
 | ------- |
