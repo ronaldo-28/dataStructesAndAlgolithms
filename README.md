@@ -2282,6 +2282,7 @@
 | [2987-find-expensive-cities](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2987-find-expensive-cities) |
 | [2988-manager-of-the-largest-department](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2988-manager-of-the-largest-department) |
 | [2989-class-performance](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2989-class-performance) |
+| [2990-loan-types](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2990-loan-types) |
 ## Nearest Pair of Points
 |  |
 | ------- |
