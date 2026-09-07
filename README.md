@@ -664,6 +664,7 @@
 | [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
 | [2927-distribute-candies-among-children-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2927-distribute-candies-among-children-iii) |
 | [2941-maximum-gcd-sum-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2941-maximum-gcd-sum-of-a-subarray) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -965,6 +966,7 @@
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
 | [2969-minimum-number-of-coins-for-fruits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2969-minimum-number-of-coins-for-fruits-ii) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1260,6 +1262,7 @@
 | [2436-minimum-split-into-subarrays-with-gcd-greater-than-one](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2436-minimum-split-into-subarrays-with-gcd-greater-than-one) |
 | [2464-minimum-subarrays-in-a-valid-split](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2464-minimum-subarrays-in-a-valid-split) |
 | [2941-maximum-gcd-sum-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2941-maximum-gcd-sum-of-a-subarray) |
+| [2979-most-expensive-item-that-can-not-be-bought](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2979-most-expensive-item-that-can-not-be-bought) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
