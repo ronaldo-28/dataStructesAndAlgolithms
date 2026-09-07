@@ -319,6 +319,7 @@
 | [2936-number-of-equal-numbers-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2936-number-of-equal-numbers-blocks) |
 | [2941-maximum-gcd-sum-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2941-maximum-gcd-sum-of-a-subarray) |
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
+| [2964-number-of-divisible-triplet-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2964-number-of-divisible-triplet-sums) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -475,6 +476,7 @@
 | [2898-maximum-linear-stock-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2898-maximum-linear-stock-score) |
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
 | [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
+| [2964-number-of-divisible-triplet-sums](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2964-number-of-divisible-triplet-sums) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
