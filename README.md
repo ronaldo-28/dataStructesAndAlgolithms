@@ -654,6 +654,7 @@
 | [2847-smallest-number-with-given-digit-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2847-smallest-number-with-given-digit-product) |
 | [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
+| [2927-distribute-candies-among-children-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2927-distribute-candies-among-children-iii) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1579,6 +1580,7 @@
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
+| [2927-distribute-candies-among-children-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2927-distribute-candies-among-children-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
