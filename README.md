@@ -652,6 +652,7 @@
 | [2802-find-the-k-th-lucky-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2802-find-the-k-th-lucky-number) |
 | [2847-smallest-number-with-given-digit-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2847-smallest-number-with-given-digit-product) |
 | [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
+| [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3001-minimum-moves-to-capture-the-queen) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -949,6 +950,7 @@
 | [2533-number-of-good-binary-strings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2533-number-of-good-binary-strings) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
+| [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1575,6 +1577,7 @@
 | [2963-count-the-number-of-good-partitions](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2963-count-the-number-of-good-partitions) |
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2638-count-the-number-of-k-free-subsets](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2638-count-the-number-of-k-free-subsets) |
+| [2912-number-of-ways-to-reach-destination-in-the-grid](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2912-number-of-ways-to-reach-destination-in-the-grid) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
