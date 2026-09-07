@@ -745,6 +745,7 @@
 | [0758-bold-words-in-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0758-bold-words-in-string) |
 | [0772-basic-calculator-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0772-basic-calculator-iii) |
 | [0800-similar-rgb-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0800-similar-rgb-color) |
+| [0940-distinct-subsequences-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0940-distinct-subsequences-ii) |
 | [1055-shortest-way-to-form-string](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1055-shortest-way-to-form-string) |
 | [1058-minimize-rounding-error-to-meet-target](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1058-minimize-rounding-error-to-meet-target) |
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
@@ -878,6 +879,7 @@
 | [0651-4-keys-keyboard](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0651-4-keys-keyboard) |
 | [0656-coin-path](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0656-coin-path) |
 | [0750-number-of-corner-rectangles](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0750-number-of-corner-rectangles) |
+| [0940-distinct-subsequences-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/1001-2000/1510-stone-game-iv) |
 | [1062-longest-repeating-substring](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1062-longest-repeating-substring) |
