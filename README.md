@@ -2280,6 +2280,7 @@
 | [2985-calculate-compressed-mean](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2985-calculate-compressed-mean) |
 | [2986-find-third-transaction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2986-find-third-transaction) |
 | [2987-find-expensive-cities](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2987-find-expensive-cities) |
+| [2988-manager-of-the-largest-department](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2988-manager-of-the-largest-department) |
 ## Nearest Pair of Points
 |  |
 | ------- |
