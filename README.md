@@ -2279,6 +2279,7 @@
 | [2984-find-peak-calling-hours-for-each-city](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2984-find-peak-calling-hours-for-each-city) |
 | [2985-calculate-compressed-mean](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2985-calculate-compressed-mean) |
 | [2986-find-third-transaction](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2986-find-third-transaction) |
+| [2987-find-expensive-cities](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2987-find-expensive-cities) |
 ## Nearest Pair of Points
 |  |
 | ------- |
