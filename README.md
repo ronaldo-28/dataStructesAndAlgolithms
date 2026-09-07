@@ -318,6 +318,7 @@
 | [2921-maximum-profitable-triplets-with-increasing-prices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2921-maximum-profitable-triplets-with-increasing-prices-ii) |
 | [2936-number-of-equal-numbers-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2936-number-of-equal-numbers-blocks) |
 | [2941-maximum-gcd-sum-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2941-maximum-gcd-sum-of-a-subarray) |
+| [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -473,6 +474,7 @@
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
 | [2898-maximum-linear-stock-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2898-maximum-linear-stock-score) |
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
+| [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
@@ -831,6 +833,7 @@
 | [2802-find-the-k-th-lucky-number](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2802-find-the-k-th-lucky-number) |
 | [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
+| [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3003-maximize-the-number-of-partitions-after-operations) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -1524,6 +1527,7 @@
 | [2539-count-the-number-of-good-subsequences](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2539-count-the-number-of-good-subsequences) |
 | [2782-number-of-unique-categories](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2782-number-of-unique-categories) |
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
+| [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
@@ -1623,6 +1627,7 @@
 | [2819-minimum-relative-loss-after-buying-chocolates](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2819-minimum-relative-loss-after-buying-chocolates) |
 | [2838-maximum-coins-heroes-can-collect](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2838-maximum-coins-heroes-can-collect) |
 | [2950-number-of-divisible-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2950-number-of-divisible-substrings) |
+| [2955-number-of-same-end-substrings](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2955-number-of-same-end-substrings) |
 ## Backtracking
 |  |
 | ------- |
