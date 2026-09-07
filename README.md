@@ -314,6 +314,7 @@
 | [2868-the-wording-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2868-the-wording-game) |
 | [2892-minimizing-array-after-replacing-pairs-with-their-product](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2892-minimizing-array-after-replacing-pairs-with-their-product) |
 | [2898-maximum-linear-stock-score](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2898-maximum-linear-stock-score) |
+| [2907-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2907-maximum-profitable-triplets-with-increasing-prices-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
@@ -1735,6 +1736,7 @@
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2158-amount-of-new-area-painted-each-day](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2158-amount-of-new-area-painted-each-day) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
+| [2907-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2907-maximum-profitable-triplets-with-increasing-prices-i) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1749,6 +1751,7 @@
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2940-find-building-where-alice-and-bob-can-meet) |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
+| [2907-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2907-maximum-profitable-triplets-with-increasing-prices-i) |
 ## DP on Trees
 |  |
 | ------- |
