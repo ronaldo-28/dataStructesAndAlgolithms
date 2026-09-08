@@ -2321,6 +2321,7 @@
 | [2995-viewers-turned-streamers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2995-viewers-turned-streamers) |
 | [3050-pizza-toppings-cost-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3050-pizza-toppings-cost-analysis) |
 | [3051-find-candidates-for-data-scientist-position](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3051-find-candidates-for-data-scientist-position) |
+| [3052-maximize-items](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3052-maximize-items) |
 ## Nearest Pair of Points
 |  |
 | ------- |
