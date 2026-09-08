@@ -2325,6 +2325,7 @@
 | [3052-maximize-items](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3052-maximize-items) |
 | [3053-classifying-triangles-by-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3053-classifying-triangles-by-lengths) |
 | [3054-binary-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3054-binary-tree-nodes) |
+| [3055-top-percentile-fraud](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3055-top-percentile-fraud) |
 ## Nearest Pair of Points
 |  |
 | ------- |
