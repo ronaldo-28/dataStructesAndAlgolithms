@@ -2320,6 +2320,7 @@
 | [2994-friday-purchases-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2994-friday-purchases-ii) |
 | [2995-viewers-turned-streamers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2995-viewers-turned-streamers) |
 | [3050-pizza-toppings-cost-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3050-pizza-toppings-cost-analysis) |
+| [3051-find-candidates-for-data-scientist-position](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3051-find-candidates-for-data-scientist-position) |
 ## Nearest Pair of Points
 |  |
 | ------- |
