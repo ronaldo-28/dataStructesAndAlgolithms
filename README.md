@@ -1890,6 +1890,7 @@
 | ------- |
 | [0469-convex-polygon](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0469-convex-polygon) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2971-find-polygon-with-the-largest-perimeter) |
+| [3053-classifying-triangles-by-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3053-classifying-triangles-by-lengths) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -2322,6 +2323,7 @@
 | [3050-pizza-toppings-cost-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3050-pizza-toppings-cost-analysis) |
 | [3051-find-candidates-for-data-scientist-position](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3051-find-candidates-for-data-scientist-position) |
 | [3052-maximize-items](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3052-maximize-items) |
+| [3053-classifying-triangles-by-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3053-classifying-triangles-by-lengths) |
 ## Nearest Pair of Points
 |  |
 | ------- |
