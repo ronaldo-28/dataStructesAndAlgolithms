@@ -2344,6 +2344,7 @@
 | [3059-find-all-unique-email-domains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3059-find-all-unique-email-domains) |
 | [3060-user-activities-within-time-bounds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3060-user-activities-within-time-bounds) |
 | [3061-calculate-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3061-calculate-trapping-rain-water) |
+| [3087-find-trending-hashtags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3087-find-trending-hashtags) |
 ## Nearest Pair of Points
 |  |
 | ------- |
