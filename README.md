@@ -2331,6 +2331,7 @@
 | [3058-friends-with-no-mutual-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3058-friends-with-no-mutual-friends) |
 | [3059-find-all-unique-email-domains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3059-find-all-unique-email-domains) |
 | [3060-user-activities-within-time-bounds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3060-user-activities-within-time-bounds) |
+| [3061-calculate-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3061-calculate-trapping-rain-water) |
 ## Nearest Pair of Points
 |  |
 | ------- |
