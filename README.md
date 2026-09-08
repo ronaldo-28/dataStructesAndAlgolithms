@@ -1270,6 +1270,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2816-double-a-number-represented-as-a-linked-list) |
 | [2046-sort-linked-list-already-sorted-using-absolute-values](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2046-sort-linked-list-already-sorted-using-absolute-values) |
 | [2674-split-a-circular-linked-list](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2674-split-a-circular-linked-list) |
+| [3062-winner-of-the-linked-list-game](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3062-winner-of-the-linked-list-game) |
 ## Number Theory
 |  |
 | ------- |
