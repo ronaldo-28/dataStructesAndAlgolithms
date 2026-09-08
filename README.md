@@ -2329,6 +2329,7 @@
 | [3056-snaps-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3056-snaps-analysis) |
 | [3057-employees-project-allocation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3057-employees-project-allocation) |
 | [3058-friends-with-no-mutual-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3058-friends-with-no-mutual-friends) |
+| [3059-find-all-unique-email-domains](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3059-find-all-unique-email-domains) |
 ## Nearest Pair of Points
 |  |
 | ------- |
