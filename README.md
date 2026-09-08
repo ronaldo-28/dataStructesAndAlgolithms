@@ -2324,6 +2324,7 @@
 | [3051-find-candidates-for-data-scientist-position](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3051-find-candidates-for-data-scientist-position) |
 | [3052-maximize-items](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3052-maximize-items) |
 | [3053-classifying-triangles-by-lengths](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3053-classifying-triangles-by-lengths) |
+| [3054-binary-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3054-binary-tree-nodes) |
 ## Nearest Pair of Points
 |  |
 | ------- |
