@@ -329,6 +329,7 @@
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3004-maximum-subtree-of-the-same-color) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -885,6 +886,7 @@
 | [2524-maximum-frequency-score-of-a-subarray](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2524-maximum-frequency-score-of-a-subarray) |
 | [2743-count-substrings-without-repeating-character](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2743-count-substrings-without-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
+| [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1693,6 +1695,7 @@
 | [2851-string-transformation](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/2001-3000/2851-string-transformation) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1890,6 +1893,7 @@
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -1901,6 +1905,7 @@
 | [2168-unique-substrings-with-equal-digit-frequency](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2168-unique-substrings-with-equal-digit-frequency) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1981,6 +1986,7 @@
 | [2728-count-houses-in-a-circular-street](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2728-count-houses-in-a-circular-street) |
 | [2782-number-of-unique-categories](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2782-number-of-unique-categories) |
 | [2936-number-of-equal-numbers-blocks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2936-number-of-equal-numbers-blocks) |
+| [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 ## Design
 |  |
 | ------- |
