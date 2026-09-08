@@ -328,6 +328,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
 | [3004-maximum-subtree-of-the-same-color](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3004-maximum-subtree-of-the-same-color) |
+| [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -485,6 +486,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
+| [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -569,6 +571,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3731-find-missing-elements) |
+| [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 ## Math
 |  |
 | ------- |
@@ -676,6 +679,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3536-maximum-product-of-two-digits) |
+| [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1794,6 +1798,7 @@
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2907-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2907-maximum-profitable-triplets-with-increasing-prices-i) |
 | [2921-maximum-profitable-triplets-with-increasing-prices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2921-maximum-profitable-triplets-with-increasing-prices-ii) |
+| [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2096,6 +2101,7 @@
 | [1956-minimum-time-for-k-virus-variants-to-spread](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/1956-minimum-time-for-k-virus-variants-to-spread) |
 | [2152-minimum-number-of-lines-to-cover-points](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2152-minimum-number-of-lines-to-cover-points) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
+| [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 ## Shortest Path
 |  |
 | ------- |
@@ -2313,6 +2319,7 @@
 |  |
 | ------- |
 | [0759-employee-free-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/0759-employee-free-time) |
+| [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
