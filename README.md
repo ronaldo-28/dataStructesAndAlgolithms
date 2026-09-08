@@ -2293,6 +2293,7 @@
 | [2991-top-three-wineries](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2991-top-three-wineries) |
 | [2993-friday-purchases-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2993-friday-purchases-i) |
 | [2994-friday-purchases-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2994-friday-purchases-ii) |
+| [2995-viewers-turned-streamers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2995-viewers-turned-streamers) |
 ## Nearest Pair of Points
 |  |
 | ------- |
