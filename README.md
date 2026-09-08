@@ -2328,6 +2328,7 @@
 | [3055-top-percentile-fraud](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3055-top-percentile-fraud) |
 | [3056-snaps-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3056-snaps-analysis) |
 | [3057-employees-project-allocation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3057-employees-project-allocation) |
+| [3058-friends-with-no-mutual-friends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3058-friends-with-no-mutual-friends) |
 ## Nearest Pair of Points
 |  |
 | ------- |
