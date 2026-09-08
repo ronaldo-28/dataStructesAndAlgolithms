@@ -2327,6 +2327,7 @@
 | [3054-binary-tree-nodes](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3054-binary-tree-nodes) |
 | [3055-top-percentile-fraud](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3055-top-percentile-fraud) |
 | [3056-snaps-analysis](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3056-snaps-analysis) |
+| [3057-employees-project-allocation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3057-employees-project-allocation) |
 ## Nearest Pair of Points
 |  |
 | ------- |
