@@ -337,6 +337,7 @@
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
+| [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -742,6 +743,7 @@
 | [3064-guess-the-number-using-bitwise-questions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3064-guess-the-number-using-bitwise-questions-i) |
 | [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
+| [3173-bitwise-or-of-adjacent-elements](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3173-bitwise-or-of-adjacent-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
