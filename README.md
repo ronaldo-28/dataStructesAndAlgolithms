@@ -335,6 +335,7 @@
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
+| [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -736,6 +737,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3064-guess-the-number-using-bitwise-questions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3064-guess-the-number-using-bitwise-questions-i) |
 | [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
+| [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -1382,6 +1384,7 @@
 | [2773-height-of-special-binary-tree](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2773-height-of-special-binary-tree) |
 | [2814-minimum-time-takes-to-reach-destination-without-drowning](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2814-minimum-time-takes-to-reach-destination-without-drowning) |
 | [2852-sum-of-remoteness-of-all-cells](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2852-sum-of-remoteness-of-all-cells) |
+| [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
