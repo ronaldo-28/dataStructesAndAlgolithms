@@ -336,6 +336,7 @@
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3141-maximum-hamming-distances](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3141-maximum-hamming-distances) |
+| [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -695,6 +696,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3536-maximum-product-of-two-digits) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
 | [3032-count-numbers-with-unique-digits-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3032-count-numbers-with-unique-digits-ii) |
+| [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1136,6 +1138,7 @@
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3135-equalize-strings-by-adding-or-removing-characters-at-ends](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3135-equalize-strings-by-adding-or-removing-characters-at-ends) |
+| [3155-maximum-number-of-upgradable-servers](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3155-maximum-number-of-upgradable-servers) |
 ## Tree
 |  |
 | ------- |
