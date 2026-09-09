@@ -2405,6 +2405,7 @@
 | [3172-second-day-verification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3172-second-day-verification) |
 | [3182-find-top-scoring-students](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3182-find-top-scoring-students) |
 | [3188-find-top-scoring-students-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3188-find-top-scoring-students-ii) |
+| [3198-find-cities-in-each-state](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3198-find-cities-in-each-state) |
 ## Nearest Pair of Points
 |  |
 | ------- |
