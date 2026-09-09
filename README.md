@@ -2365,6 +2365,7 @@
 | [3089-find-bursty-behavior](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3089-find-bursty-behavior) |
 | [3103-find-trending-hashtags-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3103-find-trending-hashtags-ii) |
 | [3118-friday-purchase-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3118-friday-purchase-iii) |
+| [3124-find-longest-calls](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3124-find-longest-calls) |
 ## Nearest Pair of Points
 |  |
 | ------- |
