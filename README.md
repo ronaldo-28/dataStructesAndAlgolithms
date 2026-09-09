@@ -2352,6 +2352,7 @@
 | [3061-calculate-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3061-calculate-trapping-rain-water) |
 | [3087-find-trending-hashtags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3087-find-trending-hashtags) |
 | [3089-find-bursty-behavior](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3089-find-bursty-behavior) |
+| [3103-find-trending-hashtags-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3103-find-trending-hashtags-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
