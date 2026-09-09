@@ -730,6 +730,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3064-guess-the-number-using-bitwise-questions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3064-guess-the-number-using-bitwise-questions-i) |
+| [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -2013,6 +2014,7 @@
 | [3023-find-pattern-in-infinite-stream-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3023-find-pattern-in-infinite-stream-i) |
 | [3037-find-pattern-in-infinite-stream-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3037-find-pattern-in-infinite-stream-ii) |
 | [3064-guess-the-number-using-bitwise-questions-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3064-guess-the-number-using-bitwise-questions-i) |
+| [3094-guess-the-number-using-bitwise-questions-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3094-guess-the-number-using-bitwise-questions-ii) |
 ## Design
 |  |
 | ------- |
