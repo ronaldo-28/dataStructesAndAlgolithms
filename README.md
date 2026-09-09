@@ -2393,6 +2393,7 @@
 | [3150-invalid-tweets-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3150-invalid-tweets-ii) |
 | [3156-employee-task-duration-and-concurrent-tasks](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3156-employee-task-duration-and-concurrent-tasks) |
 | [3166-calculate-parking-fees-and-duration](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3166-calculate-parking-fees-and-duration) |
+| [3172-second-day-verification](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3172-second-day-verification) |
 ## Nearest Pair of Points
 |  |
 | ------- |
