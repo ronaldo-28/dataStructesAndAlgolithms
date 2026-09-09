@@ -2375,6 +2375,7 @@
 | [3118-friday-purchase-iii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3118-friday-purchase-iii) |
 | [3124-find-longest-calls](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3124-find-longest-calls) |
 | [3126-server-utilization-time](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3126-server-utilization-time) |
+| [3140-consecutive-available-seats-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3140-consecutive-available-seats-ii) |
 ## Nearest Pair of Points
 |  |
 | ------- |
