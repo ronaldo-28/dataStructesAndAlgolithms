@@ -2349,6 +2349,7 @@
 | [3060-user-activities-within-time-bounds](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3060-user-activities-within-time-bounds) |
 | [3061-calculate-trapping-rain-water](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3061-calculate-trapping-rain-water) |
 | [3087-find-trending-hashtags](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3087-find-trending-hashtags) |
+| [3089-find-bursty-behavior](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3089-find-bursty-behavior) |
 ## Nearest Pair of Points
 |  |
 | ------- |
