@@ -334,6 +334,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
 | [3078-match-alphanumerical-pattern-in-matrix-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3078-match-alphanumerical-pattern-in-matrix-i) |
+| [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -1122,6 +1123,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3007-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/ronaldo-28/data-structures-algorithms-java-cpp/tree/main/3001-4000/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 ## Tree
 |  |
 | ------- |
@@ -1530,6 +1532,7 @@
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [3073-maximum-increasing-triplet-value](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3073-maximum-increasing-triplet-value) |
+| [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1810,6 +1813,7 @@
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2907-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2907-maximum-profitable-triplets-with-increasing-prices-i) |
 | [2921-maximum-profitable-triplets-with-increasing-prices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2921-maximum-profitable-triplets-with-increasing-prices-ii) |
+| [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1827,6 +1831,7 @@
 | [2907-maximum-profitable-triplets-with-increasing-prices-i](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2907-maximum-profitable-triplets-with-increasing-prices-i) |
 | [2921-maximum-profitable-triplets-with-increasing-prices-ii](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2921-maximum-profitable-triplets-with-increasing-prices-ii) |
 | [3009-maximum-number-of-intersections-on-the-chart](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3009-maximum-number-of-intersections-on-the-chart) |
+| [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 ## DP on Trees
 |  |
 | ------- |
@@ -2462,6 +2467,7 @@
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
 | [2613-beautiful-pairs](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2613-beautiful-pairs) |
 | [2792-count-nodes-that-are-great-enough](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2792-count-nodes-that-are-great-enough) |
+| [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -2539,6 +2545,7 @@
 | ------- |
 | [2031-count-subarrays-with-more-ones-than-zeros](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2031-count-subarrays-with-more-ones-than-zeros) |
 | [2519-count-the-number-of-k-big-indices](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/2519-count-the-number-of-k-big-indices) |
+| [3109-find-the-index-of-permutation](https://github.com/ronaldo-28/dataStructesAndAlgolithms/tree/master/3109-find-the-index-of-permutation) |
 ## Greatest Common Divisor
 |  |
 | ------- |
